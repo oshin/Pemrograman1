@@ -3,7 +3,7 @@ class Main{
 	
 	Santap s = new Santap();
 	Makanan ma = new Makanan();
-	Minuman mi = nem Minuman();
+	Minuman mi = new Minuman();
 	Cemilan ce = new Cemilan();
 	
 	s.cerna(ma);
